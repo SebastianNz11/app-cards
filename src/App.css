@@ -1,0 +1,18 @@
+.App {
+  background-image: linear-gradient(
+    to top,
+    #bb0e0e,
+    #c21c10,
+    #c92611,
+    #d03013,
+    #d73815,
+    #dd2b26,
+    #e11c35,
+    #e40443,
+    #dd0060,
+    #cc007c,
+    #b10096,
+    #8928ac
+  );
+  height: 100vh;
+}
